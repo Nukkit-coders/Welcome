@@ -31,7 +31,7 @@ public enum Message {
 
     TYPE_REG("Type /register <password> <password> to register on the server!"),
     TYPE_REG_CHAT("Type password twice to register on the server!"),
-    TYPE_REG1("Type /register <password> to register ob the server!"),
+    TYPE_REG1("Type /register <password> to register to the server!"),
     TYPE_REG1_CHAT("Type password in chat to register on the server!"),
     KICK_TIMEOUT("Time out! Next time type /login <password> to join the game!", 'c'),
     LGN_ATTEMPT_EXCEED("Too many login attempts!", 'c'),
